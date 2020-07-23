@@ -1,4 +1,4 @@
 # ArduinoRightLight
 Project for Embedded System Architecture academic course 
 
-For any information read Project Documentation.pdf 
+For any information see Project Documentation.pdf 
